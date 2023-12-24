@@ -4,14 +4,13 @@
 
 ## About
 
-### Participants
+### Creators
 
 | Name            | Github                                         | Discord         |
 | --------------- | ---------------------------------------------- | --------------- |
-| Pratham Singhal | [@Pratham-19](https://github.com/Pratham-19)   | Pratham#7898    |
-| Ritek Rounak    | [@RITEKROUNAK](https://github.com/RITEKROUNAK) | ritek#1239 |
-| Niku Singh  | [@NIKU-SINGH](https://github.com/NIKU-SINGH) | Niks#1433|
-| Joshua Porporino | [@JoshWeb3](https://github.com/JoshWeb3) | yesh#0001 |
+| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
+
+
 
 ### Description
 
@@ -78,3 +77,5 @@ npm run dev
   or
 yarn dev
 ````
+### License 
+MIT
